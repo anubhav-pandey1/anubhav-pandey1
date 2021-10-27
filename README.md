@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubhav</h1>
 <h3 align="center">A data scientist and aspiring software engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-pandey1&label=Profile%20views&color=2fca35&style=plastic" alt="anubhav-pandey1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-pandey1&label=Profile%20views&color=ffffff&style=plastic" alt="anubhav-pandey1" /> </p>
 
 - 🔭 I’m currently working on **Concise Template Library (CTL) in C++**
 
