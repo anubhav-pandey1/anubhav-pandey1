@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anubhav</h1>
-<h3 align="center">A backend engineer from India</h3>
+<h3 align="center">Senior Software Engineer at Springboard</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-pandey1&label=Profile%20views&color=2fca35&style=plastic" alt="anubhav-pandey1" /> </p>
 
-- 🔭 I’m currently working on **a Python-based Geo-analytics Software**
+- 🔭 I’m currently working on **a generic Calendaring Service that handles events, availability, DST transitions etc.**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Langchain, Vector Databases, LLMs**
 
-- 💬 Ask me about **Python, Machine Learning, C++, Architecture**
+- 💬 Ask me about **Python, Node.js, Machine Learning, Distributed Systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
