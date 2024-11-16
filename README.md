@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anubhav</h1>
-<h3 align="center">Senior Software Engineer at Springboard</h3>
+<h3 align="center">Founding Engineer at Super</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-pandey1&label=Profile%20views&color=2fca35&style=plastic" alt="anubhav-pandey1" /> </p>
 
-- 🔭 I’m currently working on **a generic Calendaring Service that handles events, availability, DST transitions etc.**
+- 🔭 I’m currently working on **a cryptocurrency investing app for pro-traders.**
 
-- 🌱 I’m currently learning **Langchain, Vector Databases, LLMs**
+- 🌱 I’m currently learning **Agentic AI, Multimodal RAG and GPU internals**
 
-- 💬 Ask me about **Python, Node.js, Machine Learning, Distributed Systems**
+- 💬 Ask me about **Node.js, Go, React.js, Distributed Systems, Generative AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
